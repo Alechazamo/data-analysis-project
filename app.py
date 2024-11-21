@@ -1,8 +1,8 @@
 import pandas as pd
-import plotly.express as px
+import plotly as px
 import streamlit as st
 
-car_data = pd.read_csv('Notebook/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 
 show_histogram = st.checkbox('Mostrar histograma interactivo')
