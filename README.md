@@ -8,5 +8,3 @@ Sus funciones:
 2. Mostrar un gráfico de dispersión entre los kilómetros recorridos `odometer` y el precio `price`
 
 Enlace https://data-analysis-project-wqad.onrender.com
-
-
